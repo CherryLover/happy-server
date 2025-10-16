@@ -1,0 +1,5 @@
+# Environment variables (contains secrets)
+.env
+
+# Persistent data directories
+data/
